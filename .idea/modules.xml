@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stringcalculator.iml" filepath="$PROJECT_DIR$/stringcalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stringcalculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stringcalculator_main.iml" group="stringcalculator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stringcalculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stringcalculator_test.iml" group="stringcalculator" />
+    </modules>
+  </component>
+</project>
